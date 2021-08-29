@@ -1,6 +1,4 @@
-## <h3>Hello World!💻<h3>
-
-<h5>My name is João Pedro Silverio Gama, I am 16 years old and I live in Brazil. I'm currently studying Integrated High School in Computer Science at Instituto Federal do Rio de Janeiro (IFRJ). I have basic knowledge in computing, structure and database, programming logic, web development, Spanish plus an incomplete English course.</h5>
+## Hello World!💻
 
 - 🌱 I’m currently learning C++, C#, HTML, CSS
 - 🤔 I’m looking for help with JS
