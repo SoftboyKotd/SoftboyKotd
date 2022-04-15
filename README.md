@@ -1,7 +1,7 @@
 ## Hello World!💻
 
-- 🌱 I’m currently learning C++, C#, HTML, CSS
-- 🤔 I’m looking for help with JS
+- 🌱 I’m currently studing C++, C#, PHP, HTML, CSS, JS, SQL;
+- 🤔 I’m looking for help with C#.
 
 <div>
   <a href="https://github.com/SoftboyKotd">
